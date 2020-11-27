@@ -1,0 +1,47 @@
+
+
+body
+{
+    background-image: url(images/cccc.jpeg);
+    background-color: whitesmoke;
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+}
+
+
+.container
+{
+    max-width: 45%;
+    padding: 0;
+    margin: auto;
+    border-radius: 5px; 
+    border: solid 1px #ccc;
+    margin-top: 10%;
+    margin-bottom: 3%;
+
+}
+
+ img
+ {
+     width: 100%;
+ }
+
+
+form
+{
+     padding: 10px;
+    background-color: #939393;
+    color: #216590;
+}
+
+.mod
+{
+  margin-top: 8%; 
+    
+}
+
+#cov
+{
+   background-color: #939393; 
+}
